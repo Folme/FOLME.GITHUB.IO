@@ -1,6 +1,5 @@
 # Folme Online Corp.
-## This is a Resource Sharing Site
-
+This is a Resource Sharing Site
 ----------
 
 ![LOGO](https://raw.githubusercontent.com/Folme/PictureData/master/Logo4-1.png)
